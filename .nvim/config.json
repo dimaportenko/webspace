@@ -1,0 +1,5 @@
+{
+  "commands": {
+    "dev": "deno task dev"
+   }
+}
